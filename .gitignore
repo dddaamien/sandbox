@@ -1,0 +1,5 @@
+# ROOT dir
+# OS junk files:
+[tT]humbs.db
+*.DS_Store
+
